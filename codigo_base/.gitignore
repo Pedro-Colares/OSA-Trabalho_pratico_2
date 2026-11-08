@@ -1,2 +1,4 @@
 #Ignora arquivos .bin:
 *.bin
+# Executável gerado pela compilação
+/tp02
